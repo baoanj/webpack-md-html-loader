@@ -1,0 +1,19 @@
+{
+  "name": "webpack-md-html-loader",
+  "version": "0.0.1",
+  "description": "webpack loader for .md to html",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baoanj/webpack-md-html-loader"
+  },
+  "keywords": [
+    "markdown",
+    "webpack"
+  ],
+  "author": "baoanj",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^1.2.5"
+  }
+}
